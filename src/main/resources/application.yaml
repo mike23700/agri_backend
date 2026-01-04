@@ -1,10 +1,12 @@
 spring:
   datasource:
-    url: jdbc:postgresql://${SPRING_DATASOURCE_URL_HOST}:${SPRING_DATASOURCE_URL_PORT}/${SPRING_DATASOURCE_URL_DB}
+    url: ${SPRING_DATASOURCE_URL}
     username: ${SPRING_DATASOURCE_USERNAME}
     password: ${SPRING_DATASOURCE_PASSWORD}
     driver-class-name: org.postgresql.Driver
   jpa:
     hibernate:
       ddl-auto: update
-    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
