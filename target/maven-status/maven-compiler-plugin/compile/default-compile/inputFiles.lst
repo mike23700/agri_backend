@@ -1,0 +1,11 @@
+/home/mike/AgriMarket/backend/src/main/java/com/agri/backend/BackendApplication.java
+/home/mike/AgriMarket/backend/src/main/java/com/agri/backend/auth/controller/AuthController.java
+/home/mike/AgriMarket/backend/src/main/java/com/agri/backend/auth/dto/LoginRequestDto.java
+/home/mike/AgriMarket/backend/src/main/java/com/agri/backend/auth/dto/RegisterRequestDto.java
+/home/mike/AgriMarket/backend/src/main/java/com/agri/backend/auth/service/AuthServiceImpl.java
+/home/mike/AgriMarket/backend/src/main/java/com/agri/backend/auth/service/IAuthService.java
+/home/mike/AgriMarket/backend/src/main/java/com/agri/backend/config/SecurityConfig.java
+/home/mike/AgriMarket/backend/src/main/java/com/agri/backend/user/entity/Role.java
+/home/mike/AgriMarket/backend/src/main/java/com/agri/backend/user/entity/User.java
+/home/mike/AgriMarket/backend/src/main/java/com/agri/backend/user/repository/RoleRepository.java
+/home/mike/AgriMarket/backend/src/main/java/com/agri/backend/user/repository/UserRepository.java

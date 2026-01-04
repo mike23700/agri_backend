@@ -1,0 +1,11 @@
+com/agri/backend/BackendApplication.class
+com/agri/backend/auth/dto/RegisterRequestDto.class
+com/agri/backend/user/entity/User.class
+com/agri/backend/auth/service/IAuthService.class
+com/agri/backend/auth/dto/LoginRequestDto.class
+com/agri/backend/auth/service/AuthServiceImpl.class
+com/agri/backend/user/repository/UserRepository.class
+com/agri/backend/config/SecurityConfig.class
+com/agri/backend/user/entity/Role.class
+com/agri/backend/auth/controller/AuthController.class
+com/agri/backend/user/repository/RoleRepository.class
